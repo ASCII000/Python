@@ -1,2 +1,2 @@
 # Python
- Python básico ao avançado.
+ Estudos Python
